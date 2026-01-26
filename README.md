@@ -37,7 +37,7 @@
 
 | Project | Description | Main stack |
 |--------|-------------|------------|
-| [**jenkinjose**](https://github.com/joseantoniocgonzalez/jenkinjose) | Jenkins CI/CD pipelines, automated checks and reproducible workflows | Jenkins · Docker · Python |
+| [**jenkins-pipeline-lab**](https://github.com/joseantoniocgonzalez/jenkins-pipeline-lab) | Jenkins CI/CD pipeline lab with automated tests (pytest), Docker build/push and reproducible workflows | Jenkins · Docker · Python |
 | [**dockerjose**](https://github.com/joseantoniocgonzalez/dockerjose) | Docker/Compose stacks for web services + databases (useful test environments) | Docker · Compose · MySQL |
 | [**taller_ansible_vagrant**](https://github.com/joseantoniocgonzalez/taller_ansible_vagrant) | Reproducible lab to provision environments with Ansible + Vagrant | Ansible · Vagrant |
 | [**postman-api-testing**](https://github.com/joseantoniocgonzalez/Postman-collection-for-JSONPlaceholder-API-testing-GET-POST-basic-tests-) | Postman collection to practice GET/POST requests and basic automated tests | Postman · API Testing · Tests |
