@@ -36,6 +36,7 @@
 | [**taller_ansible_vagrant**](https://github.com/joseantoniocgonzalez/taller_ansible_vagrant) | Laboratorio de automatización con Ansible + Vagrant | Ansible · Vagrant |
 | [**seguridad2023**](https://github.com/joseantoniocgonzalez/seguridad2023) | Hardening y ejercicios prácticos de seguridad | Linux · IDS · SSH |
 
+
 ---
 
 ### ⚙️ Competencias destacadas
