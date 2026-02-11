@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?duration=2500&pause=700&color=1F6FEB&center=true&vCenter=true&lines=Junior+QA+Automation+Engineer+%7C+API+Testing;Java+%7C+Selenium+%7C+Cucumber+%7C+Postman;CI%2FCD+%7C+Jenkins+%7C+Docker+%7C+Linux+(Debian)" alt="typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=700&color=1F6FEB&center=true&vCenter=true&width=900&lines=Junior+QA+Automation+Engineer;API+Testing+%7C+Java+%7C+Postman;Selenium+%7C+Cucumber+%7C+JUnit;CI%2FCD+%7C+Jenkins+%7C+Docker;Linux+(Debian)" alt="typing" />
 </p>
+
 
 <h1 align="center">👋 Hi, I'm José — Junior QA Automation Engineer (QA Focus) | DevOps & SysAdmin</h1>
 
